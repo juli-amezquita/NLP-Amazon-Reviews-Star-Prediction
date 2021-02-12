@@ -1,8 +1,8 @@
 # NLP-Amazon-Reviews-Star-Prediction
 Natural Language Processing in Spanish. Classify a review based on its text. 
-#### Dataset: The Multilingual Amazon Reviews Corpus
+Dataset: [The Multilingual Amazon Reviews Corpus](https://registry.opendata.aws/amazon-reviews-ml/)
 
-Este proyecto está enfocado en las diferentes técnicas y aplicaciones del procesamiento de lenguaje natural, para lo cual se utilizará la base de datos de Amazon Reviews. Esta base de datos incluye las opiniones (reviews) en español, así como las respectivas puntuaciones que dan los usuarios y clientes respecto a los productos que fueron adquiridos a través de la plataforma. El dataset se puede descargar del siguiente [link](https://drive.google.com/uc?export=download&id=11XnXB7Ubgf3t6gotXGlM4FCwPOMHhDLX).
+Este proyecto con fines académicos, está enfocado en las diferentes técnicas y aplicaciones del procesamiento de lenguaje natural, para lo cual se utilizará el dataset de "The Multilingual Amazon Reviews Corpus". Esta base de datos incluye las opiniones (reviews) en español, así como las respectivas puntuaciones que dan los usuarios y clientes respecto a los productos que fueron adquiridos a través de la plataforma. El dataset se puede descargar del siguiente [link](https://drive.google.com/uc?export=download&id=11XnXB7Ubgf3t6gotXGlM4FCwPOMHhDLX). 
 
 **El Objetivo principal de este proyecto será implementar un modelo que permita, a partir de la opinión de un cliente, predecir la cantidad de estrellas con las que finalmente será calificado el producto o servicio.**
 
@@ -22,4 +22,4 @@ Para desarrollar este objetivo se construirá un modelo de clasificación de apr
 1. Finalmente, se re-planteará el problema de Machine Learning en un problema binario, es decir, se asignarán únicamente las etiquetas Positiva y Negativa a cada crítica para ver cómo se comporta la predicción.
 1. Conclusiones Generales.
 
-***Esta publicación se escribió en un Jupyter Notebook. Puede visualizar este proyecto haciendo click [aquí](https://nbviewer.jupyter.org/github/juli-amezquita/NLP-Amazon-Reviews-Star-Prediction/blob/main/1_NLP%20Amazon%20Reviews%20Espan%CC%83ol.ipynb).***
+#### ***Este proyecto se escribió en un Jupyter Notebook y puede visualizarse haciendo click [aquí](https://nbviewer.jupyter.org/github/juli-amezquita/NLP-Amazon-Reviews-Star-Prediction/blob/main/1_NLP%20Amazon%20Reviews%20Espan%CC%83ol.ipynb).***
